@@ -1,7 +1,7 @@
 triangle.py
 ===========
 
-Make some beautiful corner plots.
+Makes beautiful corner plots.
 
 Corner plot /ˈkôrnər plät/ (noun):
     An illustrative representation of different projections of samples in
